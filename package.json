@@ -1,6 +1,6 @@
 {
   "name": "buffer-extend",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "buffer extension",
   "main": "index.js",
   "scripts": {
